@@ -7,7 +7,7 @@
             <WordsStyle name="KEYWORDS" styleID="2" fgColor="9177FF" bgColor="12131A" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="LABEL" styleID="3" fgColor="8080FF" bgColor="12131A" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="HIDE SYMBOL" styleID="4" fgColor="FFFFFF" bgColor="12131A" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMAND" styleID="5" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMAND" styleID="5" fgColor="8080FF" bgColor="12131A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VARIABLE" styleID="6" fgColor="FFFFFF" bgColor="12131A" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="7" fgColor="9177FF" bgColor="12131A" fontName="" fontStyle="1" fontSize="" />
         </LexerType>
