@@ -3,7 +3,7 @@
     <LexerStyles>
         <LexerType name="batch" desc="Batch" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="F9CA85" bgColor="12131A" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="9177FF" bgColor="12131A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="686968" bgColor="12131A" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="KEYWORDS" styleID="2" fgColor="9177FF" bgColor="12131A" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="LABEL" styleID="3" fgColor="8080FF" bgColor="12131A" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="HIDE SYMBOL" styleID="4" fgColor="FFFFFF" bgColor="12131A" fontName="" fontStyle="0" fontSize="" />
