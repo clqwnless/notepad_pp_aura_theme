@@ -2,7 +2,7 @@
 
 rem path where batch is located
 
-set root_path="%~dp0"
+set root_path=%~dp0
 
 
 :main
