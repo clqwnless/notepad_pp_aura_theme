@@ -16,11 +16,37 @@ stylers.xml
 
 # Languages supported by this theme (There will be more later):
 
+Batch
+
 C
+
+C#
+
+C++
+
+CMake
+
+CSS
+
+HTML
+
+INI file
+
+JavaScript
+
+JavaScript (embedded)
+
+JSON
+
+Lua
+
+Makefile
+
+Powershell
 
 Python
 
-Batch
+XML
 
 # Preview:
 
